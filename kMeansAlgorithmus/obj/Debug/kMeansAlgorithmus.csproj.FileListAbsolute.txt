@@ -1,0 +1,22 @@
+C:\Users\Roli\source\repos\kMeansAlgorithmus\kMeansAlgorithmus\obj\Debug\kMeansAlgorithmus.csprojAssemblyReference.cache
+C:\Users\Roli\source\repos\kMeansAlgorithmus\kMeansAlgorithmus\obj\Debug\Interop.EnvDTE.dll
+C:\Users\Roli\source\repos\kMeansAlgorithmus\kMeansAlgorithmus\obj\Debug\Interop.VSLangProj.dll
+C:\Users\Roli\source\repos\kMeansAlgorithmus\kMeansAlgorithmus\obj\Debug\Interop.VSLangProj2.dll
+C:\Users\Roli\source\repos\kMeansAlgorithmus\kMeansAlgorithmus\obj\Debug\kMeansAlgorithmus.csproj.ResolveComReference.cache
+C:\Users\Roli\source\repos\kMeansAlgorithmus\kMeansAlgorithmus\obj\Debug\kMeansAlgorithmus.csproj.CoreCompileInputs.cache
+C:\Users\Roli\source\repos\kMeansAlgorithmus\kMeansAlgorithmus\bin\Debug\kMeansAlgorithmus.exe.config
+C:\Users\Roli\source\repos\kMeansAlgorithmus\kMeansAlgorithmus\bin\Debug\kMeansAlgorithmus.exe
+C:\Users\Roli\source\repos\kMeansAlgorithmus\kMeansAlgorithmus\bin\Debug\kMeansAlgorithmus.pdb
+C:\Users\Roli\source\repos\kMeansAlgorithmus\kMeansAlgorithmus\obj\Debug\kMeansAlgorithmus.exe
+C:\Users\Roli\source\repos\kMeansAlgorithmus\kMeansAlgorithmus\obj\Debug\kMeansAlgorithmus.pdb
+C:\Users\Roli\Google Drive\Semester_6\Medienverarbeitung\kMeansAlgorithmus\kMeansAlgorithmus\bin\Debug\kMeansAlgorithmus.exe.config
+C:\Users\Roli\Google Drive\Semester_6\Medienverarbeitung\kMeansAlgorithmus\kMeansAlgorithmus\bin\Debug\kMeansAlgorithmus.exe
+C:\Users\Roli\Google Drive\Semester_6\Medienverarbeitung\kMeansAlgorithmus\kMeansAlgorithmus\bin\Debug\kMeansAlgorithmus.pdb
+C:\Users\Roli\Google Drive\Semester_6\Medienverarbeitung\kMeansAlgorithmus\kMeansAlgorithmus\obj\Debug\kMeansAlgorithmus.csprojAssemblyReference.cache
+C:\Users\Roli\Google Drive\Semester_6\Medienverarbeitung\kMeansAlgorithmus\kMeansAlgorithmus\obj\Debug\Interop.EnvDTE.dll
+C:\Users\Roli\Google Drive\Semester_6\Medienverarbeitung\kMeansAlgorithmus\kMeansAlgorithmus\obj\Debug\Interop.VSLangProj.dll
+C:\Users\Roli\Google Drive\Semester_6\Medienverarbeitung\kMeansAlgorithmus\kMeansAlgorithmus\obj\Debug\Interop.VSLangProj2.dll
+C:\Users\Roli\Google Drive\Semester_6\Medienverarbeitung\kMeansAlgorithmus\kMeansAlgorithmus\obj\Debug\kMeansAlgorithmus.csproj.ResolveComReference.cache
+C:\Users\Roli\Google Drive\Semester_6\Medienverarbeitung\kMeansAlgorithmus\kMeansAlgorithmus\obj\Debug\kMeansAlgorithmus.csproj.CoreCompileInputs.cache
+C:\Users\Roli\Google Drive\Semester_6\Medienverarbeitung\kMeansAlgorithmus\kMeansAlgorithmus\obj\Debug\kMeansAlgorithmus.exe
+C:\Users\Roli\Google Drive\Semester_6\Medienverarbeitung\kMeansAlgorithmus\kMeansAlgorithmus\obj\Debug\kMeansAlgorithmus.pdb
